@@ -1,0 +1,88 @@
+.explore{
+    margin-top: 80px;
+    margin-bottom: 50px;
+    padding: 20px 0;
+    height: auto;
+}
+
+.explore .text{
+    text-align: center;
+}
+
+.explore .text h3{
+    color: #43121d;
+    margin-bottom: 15px;
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 700;
+}
+
+.explore .text p{
+    color: #555;
+    line-height: 28px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 16px;
+}
+
+.explore .row .cart{
+    margin-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.explore .row .cart img{
+   width: 100%;
+   border-radius: 15px;
+}
+
+.explore .row .cart h4{
+    color: #43121d;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    margin: 0;
+    letter-spacing: 0.1px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.explore .row .cart p{
+    color: #555;
+    line-height: 28px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 16px;
+}
+
+.explore .row .cart .price span{
+    font-weight: bold;
+    color: #a82d49;
+    font-size: 24px;
+    margin-right: 10px;
+}
+.explore .row .cart .price del{
+    color: #999;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    font-size: 24px;
+}
+
+.explore .learn {
+    background-color: #a82d49;
+    color: white;
+    border: 2px solid #a82d49;
+    font-size: 15px;
+    padding: 10px 30px ;
+    text-decoration: none;
+    transition: .2s ease-in-out;
+    font-weight: bold;
+    text-decoration: none;
+    margin-top: 50px;
+ }
+ .explore .learn:hover {
+    background-color: white;
+    border: 2px solid #a82d49;
+    color: #a82d49;
+ }

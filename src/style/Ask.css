@@ -1,0 +1,22 @@
+.ask{
+    background-color: #a82d49;
+    color: white;
+    padding: 20px;
+    padding-bottom: 40px;
+}
+.ask .first , .ask .second {
+   margin: 30px 0;
+}
+
+.ask .fre{
+    margin: 30px 0;
+}
+
+.ask .fre h3{
+    margin: 30px 0;
+    color: #43121d;
+    margin-bottom: 15px;
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 700;
+}

@@ -1,0 +1,35 @@
+
+.footer{
+    background-color: #a82d49;
+    width: 100%;
+    height: 250px;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer .container .social{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.footer .container .social a{
+    font-size: 25px;
+    margin-right: 10px;
+    margin-left: 0px;
+    margin-top: 30px;
+    color: #fff;
+}
+
+.footer .linkss{
+    padding-top: 60px;
+}
+.footer .linkss a{
+    color: #fff;
+    padding-right: 30px;
+}
+
+.footer p{
+    text-align: center;
+    color: #fff;
+    font-size: 13px;
+    letter-spacing: 0.2px;
+}

@@ -1,0 +1,24 @@
+
+.number{
+    background-color:#a82d49;
+}
+.number .container{
+    padding: 40px;
+}
+
+.number .row .col-md-3{
+    padding: 15px;
+    text-align: center;
+}
+
+
+.number p{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+.number h2{
+    color: white;
+    font-size: 12px;
+    font-weight: 700;
+}
